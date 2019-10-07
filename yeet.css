@@ -6,4 +6,7 @@ img{
     width: 700px;
     border-style: dashed;
     border-color: red;
+    position: relative;
+    top: 40px;
+    left: 90px;
 }
