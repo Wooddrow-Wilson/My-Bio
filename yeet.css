@@ -8,5 +8,9 @@ img{
     border-color: red;
     position: absolute;
     left: 50px;
-    top: 600px;
+}
+
+img{
+    position: absolute;
+    top: 590px;
 }
