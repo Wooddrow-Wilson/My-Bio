@@ -1,7 +1,9 @@
 body{
-    background-color: grey
+    background-color: grey;
 }
 
 img{
     width: 150px;
+    border-style: dashed;
+    border-color: aqua;
 }
