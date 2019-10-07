@@ -7,6 +7,6 @@ img{
     border-style: dashed;
     border-color: red;
     position: relative;
-    bottom: 100px;
+    top: 100px;
     left: 90px;
 }
