@@ -6,7 +6,7 @@ img{
     width: 700px;
     border-style: dashed;
     border-color: red;
-    position: fixed;
+    position: absolute;
     left: 10px;
-    top: 200px;
+    top: 500px;
 }
