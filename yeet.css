@@ -5,5 +5,5 @@ body{
 img{
     width: 300px;
     border-style: dashed;
-    border-color: aqua;
+    border-color: rgb(255, 30, 0);
 }
